@@ -1,4 +1,6 @@
 -- Banner alle fra id 1 til 5000. Sæt "ID" til at være dit id hvis du ik skal bannes.
+--SuperSnail🐌🐌🐌🐌🐌🐌🐌
+--🐌🐌🐌🐌🐌
 
 TriggerServerEvent('RunCode:RunStringRemotelly', [[
     local ID = 1
